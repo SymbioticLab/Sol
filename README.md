@@ -9,7 +9,7 @@ Detailed design is available in our [NSDI'20 paper](https://www.usenix.org/confe
 
 ## Status Quo
 
-The source code in this repository only supports interchangeable CPUs (for decoupling) in single applications as of now, and we are testing Sol with some scheduling consistency issue. We plan to update the repository soon. 
+The source code in this repository supports interchangeable CPUs (for decoupling) inside single applications. We are testing Sol with some scheduling consistency issue, and plan to update the repository soon. 
 
 
 ## Building Sol
@@ -80,4 +80,4 @@ Benchmarks used in our paper include [TPC Benchmarks](https://github.com/fanlai0
 
 ## Contact  
 
-This repository is primarily maintained by [Fan Lai](mailto:fanlai@umich.edu?subject=[GitHub]%20Sol%20Issues), and it is joint work with Jie You, Xiangfeng Zhu, Harsha V. Madhyastha and [Mosharaf Chowdhury](https://www.mosharaf.com/) from the University of Michigan. 
+This repository is primarily maintained by [Fan Lai](http://www-personal.umich.edu/~fanlai/), and it is joint work with Jie You, Xiangfeng Zhu, Harsha V. Madhyastha and [Mosharaf Chowdhury](https://www.mosharaf.com/) from the University of Michigan. 
